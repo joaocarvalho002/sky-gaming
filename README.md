@@ -5,7 +5,7 @@ A “SkyGaming” pretende introduzir uma maneira mais eficaz, rápida e prátic
 Face à necessidade de haver uma procura de produtos gaming a “SkyGaming” tem uma excelente interface fácil de entender e que garante que o utilizador consiga encontrar o que procura rapidamente a partir do design intuitivo e simples.
 
 # Link do Site
-
+https://joaocarvalho002.github.io/sky-gaming/
 
 # Autores
 João Neves e João Maria Carvalho.
